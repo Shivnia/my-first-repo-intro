@@ -1,1 +1,70 @@
 /* Copy your CSS code from CodePen below this point */
+.quarterly-menu {
+    text-align: center;
+    width: 800px;
+   
+  }
+  
+  h1 {
+    color: #e67e22;
+    font-size: 50px;
+    margin: auto;
+  }
+  h2 {
+    color: #e67e22;
+    font-size: 35px;
+    margin: auto;
+  }
+  h3 {
+    color: red;
+    font-size: 25px;
+  }
+  h4 {
+    font-size: 17px;
+    color: #020e5d;
+  }
+  
+  .menu-item {
+    line-height: 10px;
+    padding: 10px;
+    font-family: "Georgia";
+    font-size: 15px;
+    margin: auto;
+  }
+  
+  .favorites {
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+  
+  #food-2 {
+    margin: auto;
+    height: 500px;
+  }
+  
+  #food-1 {
+    height: 500px;
+    margin: auto;
+  }
+  
+  #grill {
+    height: 500px;
+    width: 700px;
+    margin: auto;
+  }
+  .socialimages {
+    display: flex;
+    justify-content: center;
+  }
+  
+  #X {
+    height: 60px;
+  }
+  html {
+    background: #ebd9d6;
+  }
+  
+
+  
